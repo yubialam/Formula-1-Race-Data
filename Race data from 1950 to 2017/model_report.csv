@@ -1,0 +1,14 @@
+Average AUC score,Average Avg Precision,Average Dist from baseline,Average F1 score,Extra Trees,Gradient Boosting,KNN,LDA,List of races: Test acc > Baseline acc,Logistic Regression,MLP,No. of races: Test acc > Baseline acc,Random Forest
+0.507983372836314,0.7685881509476842,-0.036562500000000026,0.8320896330014135,2,5,6,3.0,"['Australian Grand Prix' 'Chinese Grand Prix' 'Bahrain Grand Prix'
+ 'Russian Grand Prix' 'Spanish Grand Prix' 'Monaco Grand Prix'
+ 'Austrian Grand Prix' 'British Grand Prix' 'Belgian Grand Prix'
+ 'Italian Grand Prix' 'Singapore Grand Prix' 'United States Grand Prix']",4,4,12,2
+0.5112224012201035,0.7682264940006159,-0.028437500000000015,0.8383855859944124,2,5,5,3.0,"['Australian Grand Prix' 'Chinese Grand Prix' 'Bahrain Grand Prix'
+ 'Monaco Grand Prix' 'Azerbaijan Grand Prix' 'Austrian Grand Prix'
+ 'Belgian Grand Prix' 'Italian Grand Prix' 'Singapore Grand Prix'
+ 'United States Grand Prix' 'Mexican Grand Prix']",2,2,11,3
+0.506181916276126,0.7664173102558307,-0.032812500000000015,0.8343861634682396,3,5,4,,"['Australian Grand Prix' 'Chinese Grand Prix' 'Bahrain Grand Prix'
+ 'Monaco Grand Prix' 'Azerbaijan Grand Prix' 'Austrian Grand Prix'
+ 'British Grand Prix' 'Hungarian Grand Prix' 'Belgian Grand Prix'
+ 'Italian Grand Prix' 'Singapore Grand Prix' 'United States Grand Prix'
+ 'Mexican Grand Prix' 'Brazilian Grand Prix']",2,3,14,3
